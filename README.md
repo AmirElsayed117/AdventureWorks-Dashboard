@@ -1,11 +1,11 @@
-# 📈 AdventureWorks Sales Dashboard – Power BI Project
+AdventureWorks Sales Dashboard – Power BI Project
 
-Hi there! 👋  
+Hi 👋  
 This Power BI project analyzes sales data from the AdventureWorks dataset to uncover valuable business insights.
 
 ---
 
-## 🔍 What’s Inside?
+- What’s Inside?
 
 Using this dashboard, you can explore:
 
@@ -14,15 +14,13 @@ Using this dashboard, you can explore:
 - Top-selling products and their revenue
 - Sales trends by product category, region, and date
 
-It’s fully interactive with filters and slicers to drill into the data and make sense of business performance 📊
+It’s fully interactive with filters and slicers to drill into the data and make sense of business performance
 
 ---
 
-## 🛠️ Tools & Skills Used
+- Tools: 
 
 - Power BI: Data modeling, DAX, and interactive dashboards
-- Excel: Data cleaning and formatting
-- Data analysis and storytelling
 
 ---
 
