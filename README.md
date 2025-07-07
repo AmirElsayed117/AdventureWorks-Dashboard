@@ -32,7 +32,7 @@ The AdventureWorks dataset — a widely-used sample database for testing busines
 
 ## 🖼️ Dashboard Preview
 
-![AdventureWorks Dashboard](screenshots/dashboard-preview.png)
+![AdventureWorks ٍSales Dashboard](https://github.com/AmirElsayed117/AdventureWorks-Dashboard/blob/main/Sales%20Overview.png)
 
 ---
 
