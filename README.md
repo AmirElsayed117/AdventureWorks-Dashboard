@@ -24,15 +24,10 @@ It’s fully interactive with filters and slicers to drill into the data and mak
 
 ---
 
-## 🗃️ Dataset
-
-The AdventureWorks dataset — a widely-used sample database for testing business intelligence solutions.
-
----
-
-## 🖼️ Dashboard Preview
+- Dashboard Preview
 
 ![AdventureWorks ٍSales Dashboard](https://github.com/AmirElsayed117/AdventureWorks-Dashboard/blob/main/Sales%20Overview.png)
+![AdventureWorks ٍCustomer Dashboard](https://github.com/AmirElsayed117/AdventureWorks-Dashboard/blob/main/Customer%20Overview.png)
 
 ---
 
